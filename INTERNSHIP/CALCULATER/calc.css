@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+body {
+  background-color: rgb(25, 150, 200);
+}
+h1 {
+  text-align: center;
+  margin: 2%;
+}
+.wrap {
+  width: 400px;
+  margin-left: 35%;
+  height: auto;
+  background: rgb(243, 239, 239);
+  padding: 15px;
+}
+.btn {
+  width: 24%;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+#del {
+  width: 100%;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
